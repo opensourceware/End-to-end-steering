@@ -1,0 +1,2 @@
+The dataset is made publically available by Udacity self-driving nano degree and an be downloaded from https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip.
+Load the dataset using preprocessing.build_dataset() and store it in a pickle file. Then run the main function in train.py, or simply python train.py.
